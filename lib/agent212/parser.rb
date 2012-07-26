@@ -34,7 +34,7 @@ module Agent212
     end
 
     def self.parse(input)
-      new(user_agent_string).parse
+      new(input).parse
     end
 
     # returns an array with the parts from the user_agent string in @input
