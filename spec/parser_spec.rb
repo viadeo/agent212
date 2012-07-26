@@ -40,15 +40,17 @@ describe Agent212::Parser do
 
   context "parsing a whole user_agent string" do
     it "" do
-      parser = Agent212::Parser.new("Viadeo%20Sync%20for%20the%20Mac/0.1.2 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook6%2C1)")
-      x = parser.parse
+      x = Agent212::UserAgent.new("Viadeo%20Sync%20for%20the%20Mac/0.1.2 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook6%2C1)")
+      # x = parser.parse
       x.should_not be_nil
-      puts x.inspect
+      x.comments.size.should == 2
+      x.comments.should include("(x86_64)")
     end
 
     it "should help in figuring out this is webkit" do
       ua = Agent212::UserAgent.parse "Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405"
       ua.products.detect {|p| p.name == "AppleWebKit" }.should_not be_nil
+      puts ua.to_yaml
     end
   end
 
