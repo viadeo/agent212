@@ -62,7 +62,6 @@ module Agent212
 
     # returns the scanned whitespace or nil
     def parse_lws
-      puts @input.inspect
       @input.scan(LWS)
     end
 
