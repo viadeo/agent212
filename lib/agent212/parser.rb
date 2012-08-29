@@ -79,7 +79,7 @@ module Agent212
     # raises an error if '/'' is followed by a non-token
     def parse_optional_product_version
       return nil unless @input.scan(/\//)
-      version = parse_product_version or raise ParseError, "expected a product-version at #{@input.pos}"
+      version = parse_product_version or raise ParseError, "expected a product-version at character #{@input.pos}"
       version
     end
 
@@ -91,7 +91,7 @@ module Agent212
 
     # comment = "(" *( ctext | quoted-pair | comment ) ")"
     # returns a string with the comment including the brackets
-    def parse_comment 
+    def parse_comment
       comment = @input.scan(/\(/) or return nil
       comment << parse_star_comment_contents
       comment << @input.scan(/\)/) or raise ParseError, "expected ) to end the comment #{comment.inspect}"
