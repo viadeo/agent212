@@ -56,3 +56,23 @@ describe Agent212::Parser do
 
 end
 
+
+describe "parsing real life http-user-agent strings" do
+
+  it "should work for most lines" do
+    success = 0
+    errors = 0
+    File.open("#{File.dirname(__FILE__)}/http_user_agents.txt", 'r') do |f|
+      f.each_line do |line|
+        begin
+          ua = Agent212::UserAgent.parse line
+          success += 1
+        rescue Agent212::Error => error
+          puts error, line.inspect
+          errors += 1
+        end
+      end
+    end
+    (errors.to_f / (success + errors).to_f).should < 0.001
+  end
+end
