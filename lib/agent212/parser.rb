@@ -30,7 +30,7 @@ module Agent212
 
 
     def initialize(input)
-      @input = StringScanner.new(input.strip)
+      @input = StringScanner.new(input.to_s.strip)
     end
 
     def self.parse(input)
@@ -44,6 +44,7 @@ module Agent212
 
     # user agent = 1 * ( product | comment )
     # meaning AT LEAST ONE product or comment
+    # returns an array with all parsed products
     def parse_user_agent
       parts = []
       parts << parse_product_or_comment || raise(ParseError, 'expected at least one ( product | comment )')

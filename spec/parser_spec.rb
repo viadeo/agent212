@@ -54,6 +54,13 @@ describe Agent212::Parser do
     end
   end
 
+  context 'parsing nothing' do
+    it "should parse it" do
+      ua = Agent212::UserAgent.parse(nil)
+      ua.should be_empty
+    end
+  end
+
 end
 
 
