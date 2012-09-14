@@ -39,8 +39,8 @@ describe Agent212::Parser do
 
 
   context "parsing a whole user_agent string" do
-    it "" do
-      x = Agent212::UserAgent.new("Viadeo%20Sync%20for%20the%20Mac/0.1.2 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook6%2C1)")
+    it "should work" do
+      x = Agent212::UserAgent.parse("Viadeo%20Sync%20for%20the%20Mac/0.1.2 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook6%2C1)")
       # x = parser.parse
       x.should_not be_nil
       x.comments.size.should == 2
