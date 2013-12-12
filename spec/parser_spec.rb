@@ -50,7 +50,7 @@ describe Agent212::Parser do
     it "should help in figuring out this is webkit" do
       ua = Agent212::UserAgent.parse "Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405"
       ua.products.detect {|p| p.name == "AppleWebKit" }.should_not be_nil
-      puts ua.to_yaml
+      # puts ua.to_s
     end
   end
 
