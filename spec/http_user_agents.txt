@@ -1,0 +1,1582 @@
+Alcatel-OT-606A/1.0 ObigoInternetBrowser/Q03C
+BlackBerry8100/4.5.0
+BlackBerry8120/4.5.0
+BlackBerry8220/4.6.0
+BlackBerry8230/4.6.1
+BlackBerry8310/4.5.0
+BlackBerry8320/4.5.0
+BlackBerry8330/4.5.0
+BlackBerry8330/5.0.0
+BlackBerry8330m/4.5.0
+BlackBerry8350i/4.6.1
+BlackBerry8350i/5.0.0
+BlackBerry8350i/5.0.0 UP.Link/6.6.0.0.0
+BlackBerry8520/4.6.1
+BlackBerry8520/5.0.0
+BlackBerry8530/5.0.0
+BlackBerry8700/4.5.0
+BlackBerry8800/4.5.0
+BlackBerry8820/4.5.0
+BlackBerry8900/4.6.1
+BlackBerry8900/5.0.0
+BlackBerry8910_CMCC/5.0.0
+BlackBerry9000/4.6.0
+BlackBerry9000/5.0.0
+BlackBerry9100/5.0.0
+BlackBerry9100/6.0.0
+BlackBerry9105/5.0.0
+BlackBerry9105/6.0.0
+BlackBerry9220/7.1.0
+BlackBerry9300/5.0.0
+BlackBerry9300/6.0.0
+BlackBerry9300/6.0.0 UP.Link/6.3.0.0.0
+BlackBerry9310/7.1.0
+BlackBerry9320/7.1.0
+BlackBerry9330/5.0.0
+BlackBerry9330/6.0.0
+BlackBerry9350/7.0.0
+BlackBerry9350/7.1.0
+BlackBerry9360/7.0.0
+BlackBerry9360/7.1.0
+BlackBerry9370/7.0.0
+BlackBerry9380/7.0.0
+BlackBerry9380/7.0.0 UP.Link/6.3.0.0.0
+BlackBerry9380/7.1.0
+BlackBerry9500/5.0.0
+BlackBerry9520/5.0.0
+BlackBerry9530/5.0.0
+BlackBerry9550/5.0.0
+BlackBerry9630/5.0.0
+BlackBerry9650/5.0.0
+BlackBerry9650/6.0.0
+BlackBerry9670/6.0.0
+BlackBerry9700/5.0.0
+BlackBerry9700/5.0.0 UP.Link/6.6.4.0.0
+BlackBerry9700/6.0.0
+BlackBerry9780/6.0.0
+BlackBerry9780/6.0.0 UP.Link/6.5.1.3.0
+BlackBerry9790/7.0.0
+BlackBerry9790/7.1.0
+BlackBerry9800/6.0.0
+BlackBerry9810/7.0.0
+BlackBerry9810/7.1.0
+BlackBerry9850/7.0.0
+BlackBerry9850/7.1.0
+BlackBerry9860/7.0.0
+BlackBerry9860/7.1.0
+BlackBerry9900/7.0.0
+BlackBerry9900/7.1.0
+BlackBerry9900/7.1.0 UP.Link/6.3.0.0.0
+BlackBerry9930/7.0.0
+BlackBerry9930/7.1.0
+BlackBerry9981/7.0.0
+CFNetwork/129.24
+CFNetwork/217
+CFNetwork/4.0
+Dalvik/1.1.0 (Linux; U; Android 2.1-update1; GT-I5700 Build/ECLAIR)
+Funambol Windows Sync Client v. 10.1.6
+HTTP SyncML Client (WinNT; I)
+LG KC910/SyncML 1.1
+LG/KU990/v1.0
+MOT-U9/1.0 LinuxOS/2.6.10 Release/03.31.2007 Browser/OSB1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 Software/R6632_G_81.24.07R
+Motorola SyncML DS Client [en]
+Mozilla/4.0 SonyEricssonC510v/R1FA
+Mozilla/4.0 SonyEricssonW910iv/R1DA
+Nokia 9300i SyncML HTTP Client
+Nokia SyncML HTTP Client
+Nokia110/2.0 (03.04) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia1680c-2/2.0 (05.61) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia1680c-2/2.0 (06.82) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia1680c-2/2.0 (07.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2220s/2.0 (09.55) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2220s/2.0 (09.75) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2220s/2.0 (10.25) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2320c-2b/2.0(ATT.11.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2330c-2/2.0 (06.46) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2330c-2/2.0 (08.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2330c-2/2.0 (09.55) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2330c-2/2.0 (09.85) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2330c-2b/2.0 (06.46) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2630/2.0 (04.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2630/2.0 (05.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2630/2.0 (05.62) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2630/2.0 (06.82) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2630/2.0 (07.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2690/2.0 (09.65) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2690/2.0 (10.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2690/2.0 (10.65) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2700c-2/2.0 (07.80) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2700c-2/2.0 (09.95) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2700c-2/2.0 (09.97) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2710c-2/2.0 (06.13) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2710c-2/2.0 (06.21) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2720a-2/2.0 (08.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2720a-2b/2.0 (08.62) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2730c-1/2.0 (07.70) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2730c-1/2.0 (09.41) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2730c-1/2.0 (10.45) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2730c-1/2.0 (10.47) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2730c-1b/2.0 (07.70) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2730c-1b/2.0 (10.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia2760/2.0 (06.82) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia300/5.0 (06.97) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia300/5.0 (07.03) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3110c/2.0 (04.91) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3120classic/2.0 (06.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3120classic/2.0 (07.16) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3120classic/2.0 (09.41) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3120classic/2.0 (10.00) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3120classic/2.0 (12.35) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3220/2.0 (03.30) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3500c/2.0 (05.51) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3500c/2.0 (06.01) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia3710fold/5.0 (04.35) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3710fold/5.0 (09.73) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3720c/2.0 (09.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia3720c/2.0 (10.16) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5000d-2/1.0 (03.50) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5000d-2/1.0 (04.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5000d-2/1.0 (04.89) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5130c-2/2.0 (05.80) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5130c-2/2.0 (06.65) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5130c-2/2.0 (07.91) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5130c-2/2.0 (07.95) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5130c-2/2.0 (07.97) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5200/2.0 (07.20) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia5220XpressMusic/2.0 (05.63) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (03.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (05.81) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (08.22) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (08.32) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (09.42) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (10.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6020/2.0 (03.52) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6020/2.0 (04.50) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6020/2.0 (04.90) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6021/2.0 (04.90) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6070/2.0 (03.20) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6085/2.0 (04.29) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6085/2.0 (06.00) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6131/2.0 (05.50) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6151/2.0 (04.10) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230/2.0 (04.28) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230/2.0 (05.35) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230i/2.0 (03.88) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6230i/2.0 (03.89) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6233/2.0 (05.43) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6233/2.0 (05.60) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6300/2.0 (04.71) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6300/2.0 (05.50) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6300/2.0 (06.01) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6300/2.0 (07.21) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6301/2.0 (09.44) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303classic/2.0 (08.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303classic/2.0 (09.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303classic/2.0 (10.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303classic/2.0 (10.12) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303iclassic/5.0 (06.61) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303iclassic/5.0 (07.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303iclassic/5.0 (10.80) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6500c/2.0 (06.61) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6500c/2.0 (08.30) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6500c/2.0 (09.48) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6500s-1/2.0 (06.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6500s-1/2.0 (08.30) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6555/2.0 (03.46) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6600f/2.0 (04.65) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6600f/2.0 (04.80) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6600i-1c/2.0 (36.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6600s/2.0 (04.81) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6700c-1/2.0 (07.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6700c-1/2.0 (10.50) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6700c-1/2.0 (13.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7020/2.0 (05.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7020/2.0 (05.41) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7070d-2/2.0 (06.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7070d-2/2.0 (06.82) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7100s-2/1.0 (06.31) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7210Supernova/2.0 (05.61) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7210Supernova/2.0 (07.23) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7230/5.0 (05.71) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7230/5.0 (06.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7230/5.0 (09.83) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7310/2.0 (09.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7360/2.0 (03.21) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia7510Supernova/2.0 (06.65) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia7610Supernova/2.0 (07.23) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia8800/2.0 (03.51) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia8800SI/2.0 (04.10) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia8800SI/2.0 (04.20) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia8800e-1/2.0 (09.41) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia8800e-1/2.0 (10.00) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-01/2.0 (03.35) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-01/2.0 (04.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-01/2.0 (05.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-02/2.0 (04.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-02/2.0 (05.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-02/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-00/2.0 (03.43) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-00/2.0 (03.45) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-00/2.0 (03.82) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-00/2.0 (03.95) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-01/5.0 (10.50) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-01/5.0 (11.00) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-01/5.0 (11.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-01/5.0 (11.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-02/2.0 (07.29) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-03/2.0 (06.51) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-03/2.0 (06.96) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-03/2.0 (06.97) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-03/2.0 (07.29) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-03/2.0 (07.48) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-00/5.0 (04.45) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-00/5.0 (04.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-00/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-00/5.0 (08.70) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-01.5/5.0 (06.75) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-01.5/5.0 (07.32) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC3-01/5.0 (05.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-00/5.0 (04.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-00/5.0 (08.17) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-00/5.0 (08.35) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-01.1/5.0 (07.22) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-01/5.0 (07.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-01/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-01/5.0 (08.65) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-01/5.0 (08.70) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-01/5.0 (08.71) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-02/2.0 (10.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-02/2.0 (11.57) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-00/5.0 (03.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-00/5.0 (04.11) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02.5/5.0 (06.73) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02.5/5.0 (06.75) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02.5/5.0 (07.32) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02/5.0 (05.32) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02/5.0 (05.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02/5.0 (05.65) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02/5.0 (06.00) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02/5.0 (06.05) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02/5.0 (07.15) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02/5.0 (07.16) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Ruby
+S60 SyncML HTTP Client
+S60 SyncML HTTP Client 3gpp-gba
+SAMSUNG-C3510_HTTP SyncML Client v1.2
+SIEMENS-S65/50
+SonyEricssonC510/R1HA
+SonyEricssonC702/R3EA
+SonyEricssonC901/R1GA
+SonyEricssonC902/R3EG
+SonyEricssonC905/R1EA
+SonyEricssonC905a/R1FA
+SonyEricssonJ105i/R1HA
+SonyEricssonJ108a/R7DA
+SonyEricssonJ108a/R7EA
+SonyEricssonJ108i/R7DA
+SonyEricssonJ108i/R7EA
+SonyEricssonJ10i/R7BA
+SonyEricssonJ10i/R7CA
+SonyEricssonJ10i2/R7BA
+SonyEricssonJ10i2/R7CA
+SonyEricssonJ20i/R7BA
+SonyEricssonJ20i/R7CA
+SonyEricssonK310i/R4DA
+SonyEricssonK510i/R4EA
+SonyEricssonK530i/R6BC
+SonyEricssonK530i/R8BB
+SonyEricssonK550i//R6BC
+SonyEricssonK610i/R1JG
+SonyEricssonK660i/R1EA
+SonyEricssonK700/R4EA
+SonyEricssonK700/R4JA
+SonyEricssonK750c/R1BC
+SonyEricssonK750i/R1CA
+SonyEricssonK750i/R1CA/SN352557014135225
+SonyEricssonK750i/R1DB/SN356018013370194
+SonyEricssonK770i/R8AA
+SonyEricssonK770i/R8BC
+SonyEricssonK790i/R1JC
+SonyEricssonK790i/R1KG
+SonyEricssonK800i/R1JC
+SonyEricssonK800i/R1KG
+SonyEricssonK800i/R8BA
+SonyEricssonK800i/R8BF
+SonyEricssonK810i/R8BA
+SonyEricssonK810i/R8BC
+SonyEricssonK850i/R1DA
+SonyEricssonT700/R3EG
+SonyEricssonU100i/R7BA
+SonyEricssonU10i/R1BA049 SonyEricssonPCSuite/6.011.00
+SonyEricssonU10i/R7AA
+SonyEricssonU10i/R7BA
+SonyEricssonU10i/R7BA084 SonyEricssonPCSuite/6.011.00
+SonyEricssonV630iv/R1JC
+SonyEricssonW20/R7CA
+SonyEricssonW200a/R4GB
+SonyEricssonW200i/R4GB
+SonyEricssonW200i/R4HA
+SonyEricssonW200i/R4JA
+SonyEricssonW20i/R7CA
+SonyEricssonW20i/R7DA
+SonyEricssonW300i/R4EA
+SonyEricssonW300i/R4GB
+SonyEricssonW350i/R11CA
+SonyEricssonW580i/R6BC
+SonyEricssonW580i/R8BE
+SonyEricssonW595/R3DA
+SonyEricssonW595/R3EA
+SonyEricssonW595/R3EG
+SonyEricssonW660i/R6AD
+SonyEricssonW660i/R8BB
+SonyEricssonW700i/R1CA
+SonyEricssonW715/R1GA
+SonyEricssonW800i/R1L
+SonyEricssonW800i/R1N
+SonyEricssonW810i/R4DB
+SonyEricssonW810i/R4EA
+SonyEricssonW850i/R1ED
+SonyEricssonW850i/R1GB
+SonyEricssonW880i/R6BC
+SonyEricssonW880i/R8BA
+SonyEricssonW890i/R1EA
+SonyEricssonW902/R3EA
+SonyEricssonW995/R1HA
+SonyEricssonX5/R7BA
+SonyEricssonZ550i/R6CA
+SonyEricssonZ610i/R1JC
+SonyEricssonZ610i/R1JG
+SonyEricssonZ610i/R1JG Release/Feb-15-2007 Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SonyEricssonZ710i/R1EF
+Soocial Client Android/V1.8.0.28 V3.4.0.20 Android/2.1-update1 Android GT-I9000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/1.5 Android HERO200
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/1.5 Android HTC Magic
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/1.6 Android E10i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/1.6 Android T-Mobile G1
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.1-update1 Android E10i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.1-update1 Android GT-I9000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.1-update1 Android SO-01B
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.1-update1 Android U20i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.1-update1 Android X10i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android Emulator
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android GT-I5800
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android GT-I9000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android HTC Desire
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android HTC Gratia A6380
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android LG-P500
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android SAMSUNG-SGH-I897
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2 Android XCD35
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android GT-I9000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android GT-S5570
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android GT-S5660
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android HTC Wildfire
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android LG-P500h
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android SAMSUNG-SGH-I997
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android SCH-I500
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android SGH-T959V
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.1 Android VM670
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.2 Android HTC Desire
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.2 Android LG-P350
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.2 Android LG-P500
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.2 Android LG-P970h
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.2 Android MB612
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.2 Android SPH-M920
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.2.2 Android Vodafone 858
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android DROID2 GLOBAL
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android DROIDX
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android GT-I9000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android GT-I9100
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android GT-I9100T
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android GT-P1000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android HTC Desire
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android HTC Incredible S
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android HTC Vision
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android HTC Wildfire S A510e
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android LG-P500
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.3 Android X10i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android BlueStacks-1fa49835-8e37-11e1-b15e-b870f4a9ab1d
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android Emulator
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android GT-I9000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android GT-I9100
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android GT-S5570B
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android GT-S5830
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android HTC Glacier
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android HTC Sensation XE with Beats Audio Z715e
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android HTC Sensation Z710e
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android LT15i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android LT18i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android MB300
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android MB855
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android MK16i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.4 Android ST17i
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android GT-I9001
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android GT-I9100
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android GT-I9100T
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android GT-I9103
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android GT-N7000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android GT-S5830
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android HTC Desire HD A9191
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android HTC Incredible S
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android HTC Wildfire S A510e
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android PC36100
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android ZTE T60
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.5 Android xpndr_imh3
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android GT-I9001
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android GT-I9100
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android GT-I9300
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android GT-P1000
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android GT-S5830
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android MB860
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android Nexus One
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android Nexus S
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.6 Android SCH-I510
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.7 Android GT-I8320
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/2.3.7 Android HTC Wildfire
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/3.1 Android GT-P7500
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/3.2 Android GT-P6200
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/3.2.1 Android Emulator
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.2 Android Galaxy Nexus
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android Emulator
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android GT-I9100
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android Galaxy Nexus
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android HTC HD2
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android HTC Sensation XE with Beats Audio
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android Nexus S
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android NexusHD2
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android SGH-I777
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.3 Android Xperia Arc
+Soocial Client Android/V1.9.5 V3.4.0.21 Android/4.0.4 Android GT-I9300
+Soocial Client Android/V2.2.12 V3.4.0.21 Android/2.3.6 Android LG-E739
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.5 Android HTC Magic
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.5 Android MB200
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.5 Android MB300
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.5 Android MB501
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.5 Android Motorola_i1
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 - Galaxo V1.6.3.4 Android Galaxy
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android 3GW100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android Devour
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android E10i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android E15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android GT540
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android Google Ion
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android HTC Tattoo
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android T-Mobile G1
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android U20i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/1.6 Android X10a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1 Android Pulse
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android E10i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android E15a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android E15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android E16i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android GT-I5500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android GT-I5503
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android GT-I5700
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android GT540
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android Garmin-Asus A50
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android HERO200
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android HTC Hero
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android HTC Liberty
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android HTC Magic
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android HTC Wildfire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android M860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android MB525
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android MotoMB511
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android SCH-I400
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android SCH-I500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android SGH-T959
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android U20i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android Vodafone 845
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android X10i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android XT300
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.1-update1 Android i940
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android A953
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android Android Edition StarTrail
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android Comet
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android DROID2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android Desire HD
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-I5500B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-I5510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-I5800
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-I5801
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-I9000B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-I9000T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-P1000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android GT-P1000N
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android HTC Desire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android HTC Legend
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android HTC Liberty
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android Ideos
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android LG-P500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android PB99400
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android PC36100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android SAMSUNG-SGH-I897
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android SGH-T959
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2 Android XCD35
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android A101IT
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android A70S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android A953
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android Android
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android Desire HD
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-I5503T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-I9003
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-S5570
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-S5660
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-S5670L
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android GT-S5830L
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android HTC Glacier
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android HTC HD2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android HTC Magic
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android HTC Wildfire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android Ideos
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android LG-P500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android LG-P500h
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android MB525
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android Milestone
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android NX-A712
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android Nexus One
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android SAMSUNG-SGH-I997
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android SCH-I500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android SGH-T959V
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android T-Mobile myTouch 3G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android T-Mobile myTouch 3G Slide
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android VM670
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android ViewPad7
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.1 Android Vodafone 858
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android Android Edition StarText
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android Cataclysm
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android Dell Streak
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android Dell Streak 7
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android GT-B7510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android GT-B7510B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android GT-B7510L
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android GT-I5500-MR3
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android GT-I5500B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android HTC Desire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android IDEOS S7 Slim
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-MS690
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P350
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P350g
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P506
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P920
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P970
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P970h
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P990
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P990h
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LG-P999
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android LS670
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android MB525
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android MB611
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android MB612
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android MB860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android Optimus San Francisco
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android SCH-M828C
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android U8180
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android U8350
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android U8820
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.2 Android XT610
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.2.3 Android Droid
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.1 Android GASEM722HC
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.1 Android PD_Novel
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.2 Android HTC Wildfire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android ADR8995
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android C771
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android DROID Pro
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android DROIDX
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android Desire HD
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-I9000B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-I9000M
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-I9001
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-I9100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-I9100T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-P1000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-P1000T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-S5660
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC ChaCha A810e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Desire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Desire S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Incredible S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Salsa C510b
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Sensation Z710e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Status
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Vision
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Wildfire S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android HTC Wildfire S A510e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android LG-P500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android LG-P500h
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android LG-P999
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android LS670
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android Nexus One
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android Nexus S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android Octa
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android PC36100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android R800at
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android R800i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android SK17a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android U8510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android U8650
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android X10i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.3 Android m799ca
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android A1_07
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ADR6300
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ADR6350
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ADR6400L
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ADR6425LVW
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ALCATEL ONE TOUCH 990
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android Acer E320-orange
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android B63M
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android DROID BIONIC
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android DROID2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android DROID2 GLOBAL
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android DROID3
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android DROIDX
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-I9001
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-I9100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-I9100G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-I9100P
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-N7000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5570
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5660M
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5670
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5830B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5830D
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5830L
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT-S5830T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android GT540
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android HTC Desire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android HTC EVO 3D X515m
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android HTC Glacier
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android HTC Sensation 4G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android HTC Sensation XE with Beats Audio Z715e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android HTC Sensation Z710a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android HTC Sensation Z710e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android IS11PT
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ISW11M
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android Kindle Fire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-AS855
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-C660h
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-C800
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-E510f
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-LG855
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-P698
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-P970
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-P970h
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-P999
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LG-VS700
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LT15a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LT15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LT18a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android LT18i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MB525
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MB526
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MB855
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MB860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MK16i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MT11a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MT11i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MT15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android MotoA953
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android Nexus One
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android Nexus S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android PG06100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android PG86100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android R800i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android R800x
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android SAMSUNG-SGH-I777
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android SAMSUNG-SGH-I997
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android SCH-R720
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android SK17i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android SPH-M930BST
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android SPH-P100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ST15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ST17i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ST18i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android STARTEXT II
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android Spice Mi280
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android T-Mobile G2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android TQ150
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android WT19i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ZT280_C71
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android ZTE-X500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android e1101_v73_klx1ctp_noalsps
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.4 Android myTouch_4G_Slide
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android ALCATEL ONE TOUCH 918D
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android ALCATEL_one_touch_918D
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android Android
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android DROID X2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android Desire HD
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android E310
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-B5510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-I9001
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-I9003
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-I9100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-I9100P
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-I9100T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-I9103
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-N7000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-S5360
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android GT-Xperia S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC ChaCha A810e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Desire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Desire HD
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Desire HD A9191
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Desire S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Explorer A310b
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Explorer A310e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Incredible S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Sensation XL with Beats Audio X315b
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Sensation XL with Beats Audio X315e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Wildfire S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android HTC Wildfire S A510e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android Incredible 2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android LG-LU6200
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android LG-P920
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android LG-P930
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android Lenovo A60
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android MB632
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android MB855
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android MI-ONE Plus
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android Milestone X
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android N762
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android N860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android PC36100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android PantechP9070
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SAMSUNG-SGH-I727
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SAMSUNG-SGH-I897
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SCH-I405
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SCH-I500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SCH-I800
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SGH-I727R
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SGH-T679
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SGH-T989
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android SGH-T989D
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android U8510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android U8650
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android U8800
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android X10
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android XT530
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android XT603
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android XT910
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.5 Android tmn smart a7
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android A953
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android DROID RAZR
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android DROID4
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-B5510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-B5512
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-B5512B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I5510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I8150
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I8160
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9001
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9003
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9070
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9100G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9100P
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-I9210
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-N7000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-N7000B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5360
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5360B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5369
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5570
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5570I
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5660
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5670
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5690
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5830B
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5830L
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5830M
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S5830i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S6102
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S6500D
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android GT-S7500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android HS-E910
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android HUAWEI-M920
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android LG-E400
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android LG-E739
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android LG-MS840
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android MB526
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android MB632
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android MB860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android MB865
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android N850
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android Nexus One
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android Nexus S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SAMSUNG-SGH-I717
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SAMSUNG-SGH-I727
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SAMSUNG-SGH-I777
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SAMSUNG-SGH-I997
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SCH-I510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SCH-i509
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SCH-i929
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SGH-I717D
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SGH-I717M
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SGH-T769
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SGH-T959W
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SGH-T989
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SHV-E160S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SPH-D700
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SPH-D710
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android SPH-M820-BST
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android U8655-1
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android U8860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android VS910 4G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android XT320
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android XT860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android XT910
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.6 Android YP-GS1
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Blade
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Dell Streak
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Desire HD
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Droid
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android E10i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android GT-I5500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android GT-I9100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android GT-S5670
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android HD2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android HTC Desire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android HTC Desire HD
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android HTC HD2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android HTC Velocity 4G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android HTC Vision
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android HTC Wildfire
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android LG-E730
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android LG-P500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android LT22i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android LT26i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android MB525
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android MB860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android MT11i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android MT27i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Nexus One
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Optimus 2X
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android PC36100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android SGH-I997
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android ST25i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Skate
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android T-Hub2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Triumph
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android U8160
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android Vodafone Smart II
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/2.3.7 Android XT615
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.1 Android AT100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.1 Android GT-P7500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.1 Android GT-P7510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.1 Android MZ604
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android A501
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android Dell Streak 7
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android GT-P6200
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android GT-P6800
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android GT-P6800 UP.Link/6.5.1.3.0
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android GT-P7500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android GT-P7500R
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android GT-P7510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android HUAWEI MediaPad
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android MZ601
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android MZ604
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android SAMSUNG-SGH-I957
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2 Android SCH-I905
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android A500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android A501
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android ARCHOS 70it2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android AT100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android HTC Flyer P510e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android SmartTab10
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android Sony Tablet S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android Transformer TF101
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.2.1 Android VTAB1008
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/3.5.5 Android SGH-I977
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.1 Android Galaxy Nexus
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.2 Android Galaxy Nexus
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android A500
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android A510
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android ADR6425LVW
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android ARCHOS 101G9
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android ARCHOS 80G9
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android ASUS Transformer Pad TF300T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android Emulator
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-I9100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-I9100G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-I9100P
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-I9100T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-N7000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-P3100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-P3113
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-P5100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android Galaxy Nexus
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC Desire C
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC Desire S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC EVO 3D X515m
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC Glacier
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC One S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC One V
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC One X
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC One XL
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC PH39100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC Sensation 4G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC Sensation XE with Beats Audio
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC Sensation XE with Beats Audio Z715e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC Sensation Z710e
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC VLE_U
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HTC-X710a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HUAWEI C8812
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android HUAWEI U8815
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android LG-P705
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android LG-P880
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android LT18a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android LT18i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android ME171
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android MT11i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android NexusHD2
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android SAMSUNG-SGH-I777
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android SGH-I897
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android SGH-T989
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android ThinkPad Tablet
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android Transformer Prime TF201
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android Transformer TF101
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android Transformer TF101G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.3 Android ZT ICS
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android DROID RAZR
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-I9000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-I9003
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-I9100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-I9300
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-I9300T
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-I9308
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-N7000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-P1000
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-P3100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-P7100
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android GT-S5830
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android Galaxy Nexus
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android HTC One X
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android LT15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android LT18a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android LT18i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android LT26i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android MK16i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android MT15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android Nexus One
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android Nexus S
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android Nexus S 4G
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SAMSUNG-SGH-I727
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SAMSUNG-SGH-I747
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SCH-I535
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SCH-R530U
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SGH-I747M
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SGH-I997
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SGH-T999
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SHV-E210K
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SK17a
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SPH-D700
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android SPH-D710
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android ST15i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android ST18i
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android U8800
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android Xoom
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.0.4 Android Xperia X10
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.1 Android Galaxy Nexus
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.1 Android Nexus 7
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.1.1 Android Galaxy Nexus
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.1.1 Android MB860
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.1.1 Android Nexus 7
+Soocial Client Android/V2.2.12 V3.4.0.38 Android/4.1.1 Android Nexus S
+Soocial Outlook (9.104) - Outlook  ((i386)) (Windows Vista (Business) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Business) )
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Business) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Home Basic) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Home Basic) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Home Premium) )
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Home Premium) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Home Premium) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Ultimate) )
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows Vista (Ultimate) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows XP (Personal) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows XP (Personal) Service Pack:3)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows XP (Professional) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2003 ((i386)) (Windows XP (Professional) Service Pack:3)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Business) )
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Business) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Business) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Enterprise) )
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Enterprise) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Home Basic) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Home Premium) )
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Home Premium) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Home Premium) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Starter Edition) )
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Starter Edition) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Ultimate) )
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Ultimate) Service Pack:1)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows Vista (Ultimate) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows XP (Personal) Service Pack:2)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows XP (Personal) Service Pack:3)
+Soocial Outlook (9.104) - Outlook 2007 ((i386)) (Windows XP (Professional) Service Pack:3)
+Soocial Outlook (9.86) - Outlook 2003 ((i386)) (Windows XP (Professional) Service Pack:3)
+Soocial Outlook (9.86) - Outlook 2007 ((i386)) (Windows Vista (Business) Service Pack:2)
+Soocial Outlook (9.86) - Outlook 2007 ((i386)) (Windows XP (Professional) Service Pack:3)
+Soocial Outlook v. 1.1.0.14
+Soocial%20for%20the%20Mac/2.0 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook1%2C1)
+Soocial%20for%20the%20Mac/2.0 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.0 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C1)
+Soocial%20for%20the%20Mac/2.0b2 CFNetwork/454.11.12 Darwin/10.7.0 (i386) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (Macmini2%2C1)
+Soocial%20for%20the%20Mac/2.2 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac11%2C2)
+Soocial%20for%20the%20Mac/2.2 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac7%2C1)
+Soocial%20for%20the%20Mac/2.2.1 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook3%2C1)
+Soocial%20for%20the%20Mac/2.2.1 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac8%2C1)
+Soocial%20for%20the%20Mac/2.2.1 CFNetwork/520.3.2 Darwin/11.3.0 (000000) DDDDDDDDDDDD
+Soocial%20for%20the%20Mac/2.2.1 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBook5%2C2)
+Soocial%20for%20the%20Mac/2.2.1 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.1 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.1 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookAir3%2C1)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac9%2C1)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac11%2C1)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.2 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBook4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBookAir3%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.12 Darwin/10.7.3 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.12 Darwin/10.7.4 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.5 Darwin/10.6.0 (i386) (MacBookPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.5 Darwin/10.6.0 (i386) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.11.5 Darwin/10.7.1 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookAir2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookAir3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookAir3%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro1%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro2%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacPro1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacPro2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (Macmini2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (Macmini3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (Macmini4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac11%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac11%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac9%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro8%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (Macmini5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (iMac12%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.4 Darwin/10.0.0 (i386) (MacBookPro2%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.9.4 Darwin/10.3.2 (i386) (MacBook7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.9.4 Darwin/10.3.2 (i386) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.9.7 Darwin/10.4.0 (i386) (MacBook1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.9.7 Darwin/10.4.0 (i386) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/454.9.8 Darwin/10.4.0 (i386) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.0.13 Darwin/11.0.0 (x86_64) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.0.13 Darwin/11.0.0 (x86_64) (MacPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.0.13 Darwin/11.1.0 (x86_64) (MacBook6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.0.13 Darwin/11.1.0 (x86_64) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBook2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBook4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBookPro2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBookPro6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (i386) (VMware7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (i386) (iMac6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBook6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookAir4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookAir4%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (Macmini4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (Macmini5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac11%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac12%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac9%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3 Darwin/11.3.0 (x86_64) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (000000) DDDDDDDDDDD
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBook2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBook3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBook4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBookAir1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBookPro2%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacPro1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (Macmini2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (VMware7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (i386) (iMac5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBook5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBook6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBook7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir3%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir4%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro8%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacMini3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (Macmini3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (Macmini4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (Macmini5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (Macmini5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac11%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac11%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac12%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac9%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.3.2 Darwin/11.3.1 (x86_64) (MacBookPro9%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacBook2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacBook3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacBook4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacBookAir1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacBookPro2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacBookPro2%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacPro1%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacPro2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (MacPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (VMware7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (i386) (iMac5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBook7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookAir2%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookAir3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookAir3%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookAir4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookAir4%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacBookPro8%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (MacPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (Macmini3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (Macmini4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (Macmini5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (Macmini5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac11%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac11%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac12%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac9%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.2 (x86_64) (MacBookAir5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.2 (x86_64) (MacBookAir5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.2 (x86_64) (MacBookPro10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.2 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.2 (x86_64) (MacBookPro8%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.2 (x86_64) (MacBookPro9%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/520.4.3 Darwin/11.4.2 (x86_64) (MacBookPro9%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/561.2 Darwin/12.0.0 (x86_64) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/561.2 Darwin/12.0.0 (x86_64) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/561.5.1 Darwin/12.0.0 (x86_64) (MacBookAir4%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/582.2.1 Darwin/12.0.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/595 Darwin/12.0.0 (x86_64) (MacBookAir3%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/595 Darwin/12.0.0 (x86_64) (MacBookAir5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596 Darwin/12.0.0 (x86_64) (MacBookAir4%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596 Darwin/12.0.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596 Darwin/12.0.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596 Darwin/12.0.0 (x86_64) (iMac12%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBook7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookAir3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookAir3%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookAir4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookAir4%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookAir5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro5%2C5)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro6%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro8%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacBookPro9%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (MacPro5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (Macmini5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (Macmini5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac11%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac11%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac12%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.0.1 Darwin/12.0.0 (x86_64) (iMac7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBook5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBook7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookAir3%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookAir3%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookAir4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookAir4%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookAir5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookAir5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro7%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro8%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacBookPro9%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (MacPro4%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (Macmini5%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (Macmini5%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (Macmini5%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (iMac11%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (iMac11%2C3)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (iMac12%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (iMac12%2C2)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (iMac8%2C1)
+Soocial%20for%20the%20Mac/2.2.3 CFNetwork/596.1 Darwin/12.1.0 (x86_64) (iMac9%2C1)
+Soocial%20for%20the%20Mac/2.2.4 CFNetwork/520.4.3 Darwin/11.4.0 (x86_64) (iMac10%2C1)
+Soocial%20for%20the%20Mac/2.2.4alpha3 CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro6%2C2)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.12 Darwin/9.7.0 (Power%20Macintosh) (PowerBook5%2C6)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.14 Darwin/9.8.0 (i386) (MacBook4%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac10%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac11%2C2)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac12%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac7%2C3)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac8%2C2)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (418739U%20tton)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook2%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook3%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook4%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook5%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook5%2C2)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookAir1%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro1%2C2)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro2%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro2%2C2)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro4%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro5%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro5%2C3)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro5%2C4)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (MacPro3%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (Macmini3%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac5%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac8%2C1)
+Soocial%20for%20the%20Mac2.2.3 CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac9%2C1)
+Soocial/1.0 CFNetwork/459 Darwin/10.0.0d3
+Soocial/1.0 CFNetwork/485.10.2 Darwin/10.3.1
+Soocial/1.0 CFNetwork/485.12.7 Darwin/10.4.0
+Soocial/1.0 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.0 CFNetwork/485.2 Darwin/10.3.1
+Soocial/1.0 CFNetwork/548.0.3 Darwin/11.0.0
+Soocial/1.0 CFNetwork/548.0.4 Darwin/11.0.0
+Soocial/1.0 CFNetwork/548.1.4 Darwin/11.0.0
+Soocial/1.2.1 CFNetwork/485.10.2 Darwin/10.3.1
+Soocial/1.2.1 CFNetwork/485.12.7 Darwin/10.4.0
+Soocial/1.2.1 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.1 CFNetwork/548.1.4 Darwin/11.0.0
+Soocial/1.2.3 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.3 CFNetwork/548.1.4 Darwin/11.0.0
+Soocial/1.2.4 CFNetwork/485.12.7 Darwin/10.4.0
+Soocial/1.2.4 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.5 CFNetwork/459 Darwin/10.0.0d3
+Soocial/1.2.5 CFNetwork/485.12.7 Darwin/10.4.0
+Soocial/1.2.5 CFNetwork/485.13.8 Darwin/11.0.0
+Soocial/1.2.5 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.5 CFNetwork/485.2 Darwin/10.3.1
+Soocial/1.2.5 CFNetwork/548.0.4 Darwin/11.0.0
+Soocial/1.2.5 CFNetwork/548.1.4 Darwin/11.0.0
+Soocial/1.2.6 CFNetwork/459 Darwin/10.0.0d3
+Soocial/1.2.6 CFNetwork/485.12.7 Darwin/10.4.0
+Soocial/1.2.6 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.6 CFNetwork/548.0.4 Darwin/11.0.0
+Soocial/1.2.6 CFNetwork/548.1.4 Darwin/11.0.0
+Soocial/1.2.7 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.8 CFNetwork/485.12.30 Darwin/10.4.0
+Soocial/1.2.8 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.8 CFNetwork/548.0.4 Darwin/11.0.0
+Soocial/1.2.8 CFNetwork/548.1.4 Darwin/11.0.0
+Soocial/1.2.9 CFNetwork/445.6 Darwin/10.0.0d3
+Soocial/1.2.9 CFNetwork/459 Darwin/10.0.0d3
+Soocial/1.2.9 CFNetwork/485.10.2 Darwin/10.3.1
+Soocial/1.2.9 CFNetwork/485.12.30 Darwin/10.4.0
+Soocial/1.2.9 CFNetwork/485.12.7 Darwin/10.3.1
+Soocial/1.2.9 CFNetwork/485.12.7 Darwin/10.4.0
+Soocial/1.2.9 CFNetwork/485.13.8 Darwin/11.0.0
+Soocial/1.2.9 CFNetwork/485.13.9 Darwin/11.0.0
+Soocial/1.2.9 CFNetwork/485.2 Darwin/10.3.1
+Soocial/1.2.9 CFNetwork/547 Darwin/11.1.0
+Soocial/1.2.9 CFNetwork/548.0.3 Darwin/11.0.0
+Soocial/1.2.9 CFNetwork/548.0.4 Darwin/11.0.0
+Soocial/1.2.9 CFNetwork/548.1.4 Darwin/11.0.0
+Soocial/1.2.9 CFNetwork/592 Darwin/13.0.0
+Soocial/1.2.9 CFNetwork/598.1 Darwin/13.0.0
+Soocial/1.2.9 CFNetwork/602 Darwin/13.0.0
+Soocial/1.2.9 CFNetwork/606 Darwin/13.0.0
+SoocialSyncTool (unknown version) CFNetwork/422.11 Darwin/9.6.0 (i386) (MacBook2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.14 Darwin/9.8.0 (i386) (MacBookPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.14 Darwin/9.8.0 (i386) (Macmini2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.14 Darwin/9.8.0 (i386) (iMac8%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac3%2C6)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac7%2C2)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac7%2C3)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac8%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac8%2C2)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (Power%20Macintosh) (PowerMac9%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBook5%2C2)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro1%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro2%2C2)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro5%2C2)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro5%2C4)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacBookPro5%2C5)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacPro1%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacPro3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (MacPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (Macmini1%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac6%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac8%2C1)
+SoocialSyncTool (unknown version) CFNetwork/438.16 Darwin/9.8.0 (i386) (iMac9%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBook3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBook4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBook6%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBookAir3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBookPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (i386) (MacBookPro5%2C5)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (i386) (iMac7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.12 Darwin/10.7.0 (x86_64) (MacPro3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.5 Darwin/10.6.0 (i386) (MacBook2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.5 Darwin/10.6.0 (i386) (MacBookPro3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.11.5 Darwin/10.6.0 (i386) (MacBookPro7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook1%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook5%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook6%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBook7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookAir1%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookAir2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookAir3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookAir3%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro1%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro1%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro2%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C3)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C4)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro5%2C5)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro6%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro6%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (MacBookPro7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (Macmini1%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (Macmini3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (Macmini4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac10%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac11%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac11%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac5%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac8%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (i386) (iMac9%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro5%2C4)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro8%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro8%2C2)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacPro5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (iMac10%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (iMac12%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.4 Darwin/10.0.0 (i386) (iMac7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.5 Darwin/10.2.0 (i386) (iMac10%2C1)
+SoocialSyncTool (unknown version) CFNetwork/454.9.7 Darwin/10.4.0 (i386) (MacBookPro5%2C4)
+SoocialSyncTool (unknown version) CFNetwork/454.9.8 Darwin/10.4.0 (i386) (MacBook2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.0.13 Darwin/11.0.0 (x86_64) (MacBookPro5%2C5)
+SoocialSyncTool (unknown version) CFNetwork/520.0.13 Darwin/11.0.1 (x86_64) (MacBookAir4%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.0.13 Darwin/11.1.0 (x86_64) (MacBookAir2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.0.13 Darwin/11.1.0 (x86_64) (MacBookPro7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBook2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBook4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (i386) (MacBookPro2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBook5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookAir2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookAir4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookAir4%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro5%2C3)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro5%2C5)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro6%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro6%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (MacBookPro7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.2.5 Darwin/11.2.0 (x86_64) (iMac9%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBook2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (i386) (MacBookPro2%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (i386) (iMac6%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBook5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBook6%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir2%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir3%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookAir4%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro3%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C3)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C4)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro5%2C5)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro6%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro8%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacBookPro8%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (MacPro4%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (Macmini5%2C3)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac10%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac11%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac11%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac12%2C2)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac7%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac8%2C1)
+SoocialSyncTool (unknown version) CFNetwork/520.3.2 Darwin/11.3.0 (x86_64) (iMac9%2C1)
+SySync Client Android PRO/V2.2.12 V3.4.0.38 Android/2.3.6 Android Nexus One
+SySync Client Android STD/V1.8.0.18 V3.4.0.15 Android/2.3.5 Android SCH-I500
+SySync Client Android STD/V1.8.0.18 V3.4.0.15 Android/2.3.6 Android GT-S5360
+Symbian SyncMLClient SonyEricssonG700/R100 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Symbian SyncMLClient SonyEricssonP1i/R100 Profile/MIDP-2.0 Configuration/CLDC-1.1
+SyncEvolution
+SyncML/2.6.5 CFNetwork/459 Darwin/10.0.0d3
+Synthesis SyncML Client/3.4.0.0 [en] (WinCE; I)
+Viadeo Client Android/V2.3.16 V3.4.0.47 Android/2.3.3 Android HTC Desire
+Viadeo Client Android/V2.3.16 V3.4.0.47 Android/4.0.3 Android Emulator
+Viadeo Client Android/V2.4.0 V3.4.0.48 Android/4.0.3 Android Transformer TF101
+Viadeo Client Android/V2.4.2 V3.4.0.50 Android/2.3.6 Android Nexus One
+Viadeo/2.0.15 CFNetwork/485.13.9 Darwin/11.4.0
+Viadeo/2.0.15 CFNetwork/548.1.4 Darwin/11.3.0
+Viadeo/2.0.25 CFNetwork/548.0.3 Darwin/11.4.0
+Viadeo/2.0.25 CFNetwork/548.1.4 Darwin/11.0.0
+ViadeoSync/0.1 CFNetwork/548.1.4 Darwin/11.4.0
+samsung GT-I9100 SyncML_DS Client
+samsung GT-I9100G SyncML_DS Client
+samsung GT-I9300 SyncML_DS Client
+samsung GT-N7000 SyncML_DS Client
+samsung GT-P7500 SyncML_DS Client
