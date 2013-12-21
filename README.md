@@ -21,6 +21,8 @@ if cfnetwork = user_agent.products.detect { |p| p.name == "CFNetwork" }
 end
 ```
 
+For more examples see: [parser_spec line 51](https://github.com/tijn/agent212/blob/master/spec/parser_spec.rb#L51) and [line 72](https://github.com/tijn/agent212/blob/master/spec/parser_spec.rb#L72).
+
 
 About the name
 --------------
