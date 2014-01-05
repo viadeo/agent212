@@ -8,17 +8,12 @@ module Agent212
 
     def initialize
       @parts = [] # either products or strings (comments)
-      # unless user_agent_string.nil? || user_agent_string.empty?
-      #   Parser.parse(user_agent_string).each do |x|
-      #     @parts << x
-      #   end
-      # end
     end
 
     def self.parse(user_agent_string)
       new.tap do |ua|
         unless user_agent_string.nil?
-          Parser.parse(user_agent_string).each { |x| ua.parts << x }
+          Parser.parse(user_agent_string).each { |part| ua.parts << part }
         end
       end
     end
@@ -28,11 +23,11 @@ module Agent212
     end
 
     def products
-      @parts.select { |p| p.is_a? Product }
+      @parts.select { |part| part.is_a? Product }
     end
 
     def comments
-      @parts.select { |p| p.is_a? String }
+      @parts.select { |part| part.is_a? String }
     end
 
     def empty?
