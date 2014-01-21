@@ -8,10 +8,6 @@ module Agent212
   class Parser
     # http://tools.ietf.org/html/rfc2616#section-3.8
 
-    # /[[:cntrl:]]/
-    SEPARATOR = /\(|\)|\<|\>|@|,|;|:|\\|\"|\/|\[|\]|\?|\=|\{|\}|\ |\t/
-
-    # SEPARATORS = '\(\)' << '<>@,;:' << '\\\\' << "\/" << '\[\]\?\=\{\}' << " \\t"
     SEPARATORS = Regexp.escape("()<>@,;:\\\"/[]?={} \t")
     # token = 1*<any CHAR except CTLs or separators>
     TOKEN = /[^#{SEPARATORS}[[:cntrl:]]]+/
