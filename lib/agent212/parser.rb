@@ -24,6 +24,9 @@ module Agent212
     CHAR = /[[:ascii:]]/ # FIXME, is this right?
     QUOTED_PAIR = /\\#{CHAR}/
 
+    SLASH = /\//
+    LEFT_BRACKET = /\(/
+    RIGHT_BRACKET = /\)/
 
     def initialize(input)
       @input = StringScanner.new(input.to_s.strip)
@@ -75,7 +78,7 @@ module Agent212
     # returns nil or the version of the product
     # raises an error if '/'' is followed by a non-token
     def parse_optional_product_version
-      return nil unless @input.scan(/\//)
+      return nil unless @input.scan(SLASH)
       version = parse_product_version or raise ParseError, "expected a product-version at character #{@input.pos}"
       version
     end
@@ -89,9 +92,9 @@ module Agent212
     # comment = "(" *( ctext | quoted-pair | comment ) ")"
     # returns a string with the comment including the brackets
     def parse_comment
-      comment = @input.scan(/\(/) or return nil
+      comment = @input.scan(LEFT_BRACKET) or return nil
       comment << parse_star_comment_contents
-      comment << @input.scan(/\)/) or raise ParseError, "expected ) to end the comment #{comment.inspect}"
+      comment << @input.scan(RIGHT_BRACKET) or raise ParseError, "expected ) to end the comment #{comment.inspect}"
     end
 
     # *( ctext | quoted-pair | comment )
