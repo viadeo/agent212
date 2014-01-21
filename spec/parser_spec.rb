@@ -79,7 +79,7 @@ describe Agent212::Parser do
       return false
     end
 
-    def parsing_succes_rate(filename)
+    def parsing_succes_counts(filename)
       successes = 0
       failures = 0
       File.open(filename, 'r') do |file|
@@ -94,9 +94,13 @@ describe Agent212::Parser do
       [successes, failures]
     end
 
+    def failure_rate(successes, failures)
+      failures.to_f / (successes + failures).to_f
+    end
+
     it "succesfully parses *most* lines (less than 0.1% may fail)" do
-      (successes, failures) = parsing_succes_rate("#{File.dirname(__FILE__)}/http_user_agents.txt")
-      (failures.to_f / (successes + failures).to_f).should < 0.001
+      (successes, failures) = parsing_succes_counts("#{File.dirname(__FILE__)}/http_user_agents.txt")
+      failure_rate(successes, failures).should < 0.001
     end
   end
 end
