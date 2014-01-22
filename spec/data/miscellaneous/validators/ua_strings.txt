@@ -1,0 +1,14 @@
+# HTMLParser (1.60)
+HTMLParser/1.6
+# W3C CSS Validator
+Jigsaw/2.2.5 W3C_CSS_Validator_JFouffa/2.0
+# W3C (X)HTML Validator (1.654)
+W3C_Validator/1.654
+# W3C (X)HTML Validator (1.305.2.12)
+W3C_Validator/1.305.2.12 libwww-perl/5.64
+# W3C P3P Validator
+P3P Validator
+# WDG CSS Validator (1.2.2)
+CSSCheck/1.2.2
+# WDG (X)HTML Validator (1.6.2)
+WDG_Validator/1.6.2

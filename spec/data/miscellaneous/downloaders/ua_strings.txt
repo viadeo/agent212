@@ -1,0 +1,16 @@
+# Download Demon
+Download Demon/3.5.0.11
+# Offline Explorer 2.5
+Offline Explorer/2.5
+# SuperBot 4.4.0 (Win XP)
+SuperBot/4.4.0.60 (Windows XP)
+# WebCopier v4.6
+WebCopier v4.6
+# Web Downloader 6.9
+Web Downloader/6.9
+# WebZIP 3.5
+WebZIP/3.5 (http://www.spidersoft.com)
+# Wget 1.9 (Redhat)
+Wget/1.9 cvs-stable (Red Hat modified)
+# Wget 1.9.1
+Wget/1.9.1

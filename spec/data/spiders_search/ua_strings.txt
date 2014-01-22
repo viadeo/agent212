@@ -1,0 +1,46 @@
+# Ask Jeeves/Teoma
+Mozilla/2.0 (compatible; Ask Jeeves/Teoma)
+# Baiduspider 
+Baiduspider ( http://www.baidu.com/search/spider.htm)
+# Bing Bot 2.0 (renamed Msnbot)
+Mozilla/5.0 (compatible; bingbot/2.0  http://www.bing.com/bingbot.htm)
+# Exabot 3.0
+Mozilla/5.0 (compatible; Exabot/3.0;  http://www.exabot.com/go/robot) 
+# FAST-WebCrawler 3.8
+FAST-WebCrawler/3.8 (crawler at trd dot overture dot com; http://www.alltheweb.com/help/webmaster/crawler)
+# Google AdsBot 1.0
+AdsBot-Google ( http://www.google.com/adsbot.html)
+# Googlebot 2.1 (New version)
+Mozilla/5.0 (compatible; Googlebot/2.1;  http://www.google.com/bot.html)
+# Googlebot 2.1 (Older Version)
+Googlebot/2.1 ( http://www.googlebot.com/bot.html)
+# Googlebot-Image 1.0
+Googlebot-Image/1.0
+# Googlebot MediaPartners
+Mediapartners-Google
+# Googlebot-Mobile 2.1 (ID: DoCoMo/2.0)
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1;  http://www.google.com/bot.html)
+# Googlebot-Mobile 2.1 (ID: iPhone)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS) (compatible; Googlebot-Mobile/2.1;  http://www.google.com/bot.html)
+# Googlebot-Mobile 2.1 (ID: SAMSUNG-SGH-E250)
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1;  http://www.google.com/bot.html)
+# Googlebot-News
+Googlebot-News
+# Googlebot-Video
+Googlebot-Video/1.0
+# Google Toolbar 4.0 (XP - MSIE 6)
+Mozilla/4.0 (compatible; GoogleToolbar 4.0.1019.5266-big; Windows XP 5.1; MSIE 6.0.2900.2180)
+# Google Web Preview
+Mozilla/5.0 (en-us) AppleWebKit/525.13 (KHTML, like Gecko; Google Web Preview) Version/3.1 Safari/525.13
+# Msnbot 1.0 (current version)
+msnbot/1.0 ( http://search.msn.com/msnbot.htm)
+# Msnbot 1.1
+msnbot/1.1 ( http://search.msn.com/msnbot.htm)
+# Msnbot 0.11 (beta version)
+msnbot/0.11 ( http://search.msn.com/msnbot.htm)
+# Msnbot-Media 1.1
+msnbot-media/1.1 ( http://search.msn.com/msnbot.htm)
+# Yahoo Slurp
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+# Yahoo Slurp China
+Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html)

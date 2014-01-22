@@ -1,0 +1,6 @@
+# BlackBerry (Google WAP)
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12 (Google WAP Proxy/1.0)
+# Nokia (6100) WAP
+Nokia6100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+# Nokia 6630
+Nokia6630/1.0 (2.3.129) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1

@@ -80,27 +80,44 @@ describe Agent212::Parser do
     end
 
     def parsing_succes_counts(filename)
+      total = 0
       successes = 0
-      failures = 0
       File.open(filename, 'r') do |file|
         file.each_line do |line|
-          if can_parse_ua_string?(line)
-            successes += 1
-          else
-            failures += 1
-          end
+          next if line.empty?
+          next if line.start_with?('#')
+          successes += 1 if can_parse_ua_string?(line)
+          total += 1
         end
       end
-      [successes, failures]
+      [successes, total]
     end
 
-    def failure_rate(successes, failures)
-      failures.to_f / (successes + failures).to_f
+    def failure_rate(successes, total)
+      failures = total - successes
+      failures.to_f / total.to_f
     end
 
     it "succesfully parses *most* lines (less than 0.1% may fail)" do
-      (successes, failures) = parsing_succes_counts("#{File.dirname(__FILE__)}/http_user_agents.txt")
-      failure_rate(successes, failures).should < 0.001
+      (successes, total) = parsing_succes_counts("#{File.dirname(__FILE__)}/http_user_agents.txt")
+      failure_rate(successes, total).should < 0.001
+    end
+
+    it "succesfully parses *most* lines from useragentswitcher.xml (> 99%)" do
+      # There are three failures over 500-something UA strings. That makes the
+      # failure rate just above 0.05. In two cases closing brackets are
+      # missing from two Linux browser UA strings. Is this really the case or
+      # could it be an error in the useragentswitcher file?
+
+      successes = 0
+      total = 0
+      Dir.glob("#{File.dirname(__FILE__)}/data/**/ua_strings.txt") do |filename|
+        (s, t) = parsing_succes_counts(filename)
+        successes += s
+        total += t
+      end
+      # puts "scanned #{total} lines, #{successes} succesful"
+      failure_rate(successes, total).should < 0.01
     end
   end
 end

@@ -1,0 +1,84 @@
+# Arora 0.11.1 - WebKit
+Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.10.1
+# Chrome 19.0.1084.9 (64 bit)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5
+# Chrome 20.0.1132.57 (CrOS)
+Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+# Chrome 22.0.1229.56 (64 bit)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.56 Safari/537.4
+# Chrome 28.0.1478.0 (32 bit)
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1478.0 Safari/537.36
+# Chromium 25.0.1364 (Ubuntu 32 bit)
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.22 (KHTML like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22
+# Dillo 3.0
+Mozilla/4.0 (compatible; Dillo 3.0)
+# Epiphany - WebKit (528.5)
+Mozilla/5.0 (X11; U; Linux i686; en-us) AppleWebKit/528.5  (KHTML, like Gecko, Safari/528.5 ) lt-GtkLauncher
+# Firefox 11.0 (32 bit)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20120421 Gecko Firefox/11.0
+# Firefox 12.0 (32 bit)
+Mozilla/5.0 (X11; Linux i686; rv:12.0) Gecko/20100101 Firefox/12.0 
+# Firefox 14.0.1 (Ubuntu 64 bit)
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+# Firefox 16.0 (32 bit)
+Mozilla/5.0 (X11; Linux i686; rv:16.0) Gecko/20100101 Firefox/16.0
+# Firefox 19.0 (Slackware 13 32 bit)
+Mozilla/5.0 (X11; U; Linux i686; rv:19.0) Gecko/20100101 Slackware/13 Firefox/19.0
+# Firefox 20.0 (Ubuntu 64 bit)
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+# Firefox 20.0 (32 bit)
+Mozilla/5.0 (X11; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0
+# Firefox 25.0 (32 bit)
+Mozilla/5.0 (X11; Linux i686; rv:25.0) Gecko/20100101 Firefox/25.0 
+# Galeon 2.0.6 (Ubuntu)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko Galeon/2.0.6 (Ubuntu 2.0.6-2)
+# Galeon 2.0.6 (Gentoo)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.16) Gecko/20080716 (Gentoo) Galeon/2.0.6
+# Iceape (SeaMonkey) 2.0.8 (Debian)
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.13) Gecko/20100916 Iceape/2.0.8
+# Iceweasel (Firefox) 14.0.1
+Mozilla/5.0 (X11; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+# Iceweasel (Firefox) 15.02 (Debian)
+Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120724 Debian Iceweasel/15.02
+# Iceweasel (Firefox) 19.0.2 (Debian 64)
+Mozilla/5.0 (X11; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0 Iceweasel/19.0.2
+# Konqueror 4.3 - khtml (Slackware 13)
+Mozilla/5.0 (compatible; Konqueror/4.2; Linux) KHTML/4.2.4 (like Gecko) Slackware/13.0
+# Konqueror 4.3.1 - khtml (Fedora 11)
+Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.1 (like Gecko) Fedora/4.3.1-3.fc11
+# Konqueror 4.4.3 - khtml (Fedora 12)
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux) KHTML/4.4.1 (like Gecko) Fedora/4.4.1-1.fc12
+# Konqueror 4.4.3 - khtml (Kubuntu)
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux 2.6.32-22-generic; X11; en_US) KHTML/4.4.3 (like Gecko) Kubuntu
+# Konqueror 4.4.3 - khtml (Kubuntu)
+Mozilla/5.0 (compatible; Konqueror/4.4; Linux 2.6.32-22-generic; X11; en_US) KHTML/4.4.3 (like Gecko) Kubuntu
+# Konqueror 4.8.4 - khtml (Debian)
+Mozilla/5.0 (X11; Linux 3.8-6.dmz.1-liquorix-686) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+# Konqueror 4.9 - khtml
+Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+# Midori 0.1.10 (Webkit 531)
+Midori/0.1.10 (X11; Linux i686; U; en-us) WebKit/(531).(2) 
+# Mozilla 1.9.0 (Debian)
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.3) Gecko/2008092814 (Debian-3.0.1-1)
+# Mozilla 1.9a3pre
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330
+# Opera 9.64 (Linux Mint)
+Opera/9.64 (X11; Linux i686; U; Linux Mint; nb) Presto/2.1.1
+# Opera 10.10 (id as 9.8)
+Opera/9.80 (X11; Linux i686; U; en) Presto/2.2.15 Version/10.10
+# Opera 11.00 (id as 9.8)
+Opera/9.80 (X11; Linux x86_64; U; pl) Presto/2.7.62 Version/11.00
+# QupZilla 1.2.0 (Webkit 534.34)
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) QupZilla/1.2.0 Safari/534.34
+# SeaMonkey 2.0.12 (Mozilla)
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.17) Gecko/20110123 SeaMonkey/2.0.12
+# SeaMonkey 2.7.1 (Mozilla)
+Mozilla/5.0 (X11; Linux i686; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 SeaMonkey/2.7.1
+# SeaMonkey 2.9.1 (Mozilla)
+Mozilla/5.0 (X11; Linux i686; rv:12.0) Gecko/20120502 Firefox/12.0 SeaMonkey/2.9.1
+# Shadowfox 7.0 (Mozilla)
+Mozilla/5.0 (X11; U; Linux x86_64; us; rv:1.9.1.19) Gecko/20110430 shadowfox/7.0 (like Firefox/7.0
+# Swiftfox 3.6.3
+Mozilla/5.0 (X11; U; Linux i686; it; rv:1.9.2.3) Gecko/20100406 Firefox/3.6.3 (Swiftfox)
+# Uzbl (Webkit 1.3)
+Uzbl (Webkit 1.3) (Linux i686 [i686])

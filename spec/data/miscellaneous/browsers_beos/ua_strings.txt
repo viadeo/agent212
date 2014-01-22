@@ -1,0 +1,4 @@
+# Net Positive 2.1
+Mozilla/3.0 (compatible; NetPositive/2.1.1; BeOS)
+# SeaMonkey 1.5a
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.9a1) Gecko/20060702 SeaMonkey/1.5a

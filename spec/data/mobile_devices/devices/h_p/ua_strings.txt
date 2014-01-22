@@ -1,0 +1,4 @@
+# Touchpad 1.0 - WebOS 3.0.2 - wOSBrowser 234.40.1
+Mozilla/5.0 (hp-tablet; Linux; hpwOS/3.0.2; U; de-DE) AppleWebKit/534.6 (KHTML, like Gecko) wOSBrowser/234.40.1 Safari/534.6 TouchPad/1.0
+# Pre3 - webOS 2.2.4 - wOSBrowser 221.56
+Mozilla/5.0 (Linux; webOS/2.2.4; U; en-US) AppleWebKit/534.6 (KHTML, like Gecko) webOSBrowser/221.56 Safari/534.6 Pre/3.0 

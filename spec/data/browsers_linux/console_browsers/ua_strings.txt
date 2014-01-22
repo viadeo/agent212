@@ -1,0 +1,16 @@
+# Elinks 0.4pre5
+ELinks (0.4pre5; Linux 2.6.10-ac7 i686; 80x33)
+# ELinks 0.9.3 (Kanotix)
+ELinks/0.9.3 (textmode; Linux 2.6.9-kanotix-8 i686; 127x41)
+# ELinks 0.12~pre5-4
+ELinks/0.12~pre5-4
+# Links 0.9.1
+Links/0.9.1 (Linux 2.4.24; i386;)
+# Links 2.1
+Links (2.1pre15; Linux 2.4.26 i686; 158x61)
+# Links 2.3pre1
+Links (2.3pre1; Linux 2.6.38-8-generic x86_64; 170x48)
+# Lynx 2.8.5rel.1
+Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/0.8.12
+# w3m 0.5.1
+w3m/0.5.1

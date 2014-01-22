@@ -1,0 +1,34 @@
+# Arora/0.10.2 (BSD/Haiku)
+Mozilla/5.0 (Unknown; U; UNIX BSD/SYSV system; C -) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.10.2
+# Chrome 19.0.1084.56 (FreeBSD 64)
+Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/536.5 (KHTML like Gecko) Chrome/19.0.1084.56 Safari/536.5
+# Chrome 22.0.1229.79 (FreeBSD 64)
+Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.79 Safari/537.4
+# Epiphany 2.30.0 (OpenBSD)
+Mozilla/5.0 (X11; U; OpenBSD arm; en-us) AppleWebKit/531.2  (KHTML, like Gecko) Safari/531.2  Epiphany/2.30.0
+# Epiphany 2.30.0 (FreeBSD)
+Mozilla/5.0 (X11; U; FreeBSD amd64; en-us) AppleWebKit/531.2  (KHTML, like Gecko) Safari/531.2  Epiphany/2.30.0
+# Firefox 3.1b3 (SunOs)
+Mozilla/5.0 (X11; U; SunOS i86pc; en-US; rv:1.9.1b3) Gecko/20090429 Firefox/3.1b3
+# Firefox 3.5 (OpenBSD)
+Mozilla/5.0 (X11; U; OpenBSD i386; en-US; rv:1.9.1) Gecko/20090702 Firefox/3.5
+# Firefox 3.6.8 (FreeBSD)
+Mozilla/5.0 (X11; U; FreeBSD i386; de-CH; rv:1.9.2.8) Gecko/20100729 Firefox/3.6.8
+# Firefox 5.0 (FreeBSD 64)
+Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0
+# Konqueror 4.1 - khtml (DragonFly)
+Mozilla/5.0 (compatible; Konqueror/4.1; DragonFly) KHTML/4.1.4 (like Gecko)
+# Konqueror 4.1 - khtml (OpenBSD)
+Mozilla/5.0 (compatible; Konqueror/4.1; OpenBSD) KHTML/4.1.4 (like Gecko)
+# Konqueror 4.5.4 - khtml (NetBSD 5.0.2)
+Mozilla/5.0 (compatible; Konqueror/4.5; NetBSD 5.0.2; X11; amd64; en_US) KHTML/4.5.4 (like Gecko)
+# Konqueror 4.5.4 - khtml (FreeBSD)
+Mozilla/5.0 (compatible; Konqueror/4.5; FreeBSD) KHTML/4.5.4 (like Gecko)
+# Namoroka 3.6.15 (Firefox) (NetBSD)
+Mozilla/5.0 (X11; U; NetBSD amd64; en-US; rv:1.9.2.15) Gecko/20110308 Namoroka/3.6.15
+# NetSurf 1.2 (NetBSD)
+NetSurf/1.2 (NetBSD; amd64)
+# Opera 12.10 (FreeBSD)
+Opera/9.80 (X11; FreeBSD 8.1-RELEASE i386; Edition Next) Presto/2.12.388 Version/12.10
+# Seamonkey 1.1.8 (Mozilla) (SunOS 32bit)
+Mozilla/5.0 (X11; U; SunOS i86pc; en-US; rv:1.8.1.12) Gecko/20080303 SeaMonkey/1.1.8

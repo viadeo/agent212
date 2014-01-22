@@ -1,0 +1,8 @@
+# Bloglines 3.1
+Bloglines/3.1 (http://www.bloglines.com)
+# everyfeed spider 2.0
+everyfeed-spider/2.0 (http://www.everyfeed.com)
+# Google Feed Fetcher
+FeedFetcher-Google; ( http://www.google.com/feedfetcher.html)
+# Gregarius 0.5.2
+Gregarius/0.5.2 ( http://devlog.gregarius.net/docs/ua)

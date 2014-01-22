@@ -1,0 +1,10 @@
+# Facebook Scraper 1.0
+facebookscraper/1.0( http://www.facebook.com/sharescraper_help.php)
+# Grub-Client
+grub-client-1.5.3; (grub-client-1.5.3; Crawl your own stuff with http://grub.org)
+# iTunes 4.2 (OS X 10.2 PPC)
+iTunes/4.2 (Macintosh; U; PPC Mac OS X 10.2)
+# MS URL Control
+Microsoft URL Control - 6.00.8862
+# winHTTP
+SearchExpress

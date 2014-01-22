@@ -1,0 +1,2 @@
+# ZuneHD 4.3 - IEMobile 6.12 - CE
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12; Microsoft ZuneHD 4.3)

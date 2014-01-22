@@ -95,6 +95,10 @@ module Agent212
       comment = @input.scan(LEFT_BRACKET) or return nil
       comment << parse_star_comment_contents
       comment << @input.scan(RIGHT_BRACKET) or raise ParseError, "expected ) to end the comment #{comment.inspect}"
+    rescue => error
+      if @input.eos?
+        raise ParseError, "unexpected end of string (original error: ##{error}"
+      end
     end
 
     # *( ctext | quoted-pair | comment )

@@ -1,0 +1,10 @@
+# Playstation 3 (2.00)
+Mozilla/5.0 (PLAYSTATION 3; 2.00)
+# Playstation 3 (1.10)
+Mozilla/5.0 (PLAYSTATION 3; 1.10)
+# PSP (2.00)
+Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+# Wii 2.0.4.7-7
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; en)
+# Wii libnup (1.00)
+wii libnup/1.0

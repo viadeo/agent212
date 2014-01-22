@@ -1,0 +1,56 @@
+# Bolt 2.8 (webkit 534.6) (Sony Ericsson K800i)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; BOLT/2.800) AppleWebKit/534.6 (KHTML, like Gecko) Version/5.0 Safari/534.6.3
+# IEMobile 6.12 (Win CE) (with zune id)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12; Microsoft ZuneHD 4.3)
+# EMobile 7.11 (MSIE 6 - Win CE)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) 
+# IEMobile 7.0 (MSIE 7.0) - WinPhone OS 7.0 - Asus Galaxy
+Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0) Asus;Galaxy6
+# IEMobile 7.5 (MSIE 9 - WP7.5)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)
+# IEMobile 9.0 - WinPhone OS 7.5
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)
+# IEMobile 10.0 - WinPhone OS 8.0 - ARM
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch) 
+# EudoraWeb 2.1 (PalmOS)
+Mozilla/1.22 (compatible; MSIE 5.01; PalmOS 3.0) EudoraWeb 2.1
+# Firefox 4.0.1 (Win CE)
+Mozilla/5.0 (WindowsCE 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+# Firefox Fennec 1.0.a1 (Linux arm)
+Mozilla/5.0 (X11; U; Linux armv61; en-US; rv:1.9.1b2pre) Gecko/20081015 Fennec/1.0a1
+# Firefox Fennec 2.0.1 (Maemo arm)
+Mozilla/5.0 (Maemo; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1
+# Firefox Fennec 10.0.1 (Maemo arm)
+Mozilla/5.0 (Maemo; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1
+# Minimo 0.016 (Win CE)
+Mozilla/5.0 (Windows; U; Windows CE 5.1; rv:1.8.1a3) Gecko/20060610 Minimo/0.016
+# Minimo 0.020 (Linux)
+Mozilla/5.0 (X11; U; Linux armv6l; rv 1.8.1.5pre) Gecko/20070619 Minimo/0.020
+# Minimo 0.025 (Linux arm)
+Mozilla/5.0 (X11; U; Linux arm7tdmi; rv:1.8.1.11) Gecko/20071130 Minimo/0.025
+# NetFront 3.0 (PalmOS)
+Mozilla/4.0 (PDA; PalmOS/sony/model prmr/Revision:1.1.54 (en)) NetFront/3.0
+# Opera 9.51 beta (Windows)
+Opera/9.51 Beta (Microsoft Windows; PPC; Opera Mobi/1718; U; en)
+# Opera 9.60 Mini 4.1 beta (Windows)
+Opera/9.60 (J2ME/MIDP; Opera Mini/4.1.11320/608; U; en) Presto/2.2.0
+# Opera 9.60 Mini 4.2 J2ME/MIDP
+Opera/9.60 (J2ME/MIDP; Opera Mini/4.2.14320/554; U; cs) Presto/2.2.0
+# Opera 10.00 Mobi - SymbOS
+Opera/9.80 (S60; SymbOS; Opera Mobi/499; U; ru) Presto/2.4.18 Version/10.00
+# Opera 10.61 Mini 5.1 (J2ME/MIDP)
+Opera/10.61 (J2ME/MIDP; Opera Mini/5.1.21219/19.999; en-US; rv:1.9.3a5) WebKit/534.5 Presto/2.6.30
+# Polaris 6.01
+POLARIS/6.01 (BREW 3.1.5; U; en-us; LG; LX265; POLARIS/6.01/WAP) MMP/2.0 profile/MIDP-2.1 Configuration/CLDC-1.1
+# Mobile Safari 530.17 (Android)
+Mozilla/5.0 (Linux; U; Android 2.0; en-us; Droid Build/ESD20) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
+# Safari 533 - iPad - iOS 4_2_1)
+Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+# Safari 533.17.9 - iPhone - iOS 4_2_1
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; da-dk) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+# Safari 6 (8536.25) - Apple iPad 2 - iOS 6_0
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
+# UCBrowser 2.9.0 - Trident/MSIE 9.0 - WindowsPhone 7
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; XBLWP7; ZuneWP7) UCBrowser/2.9.0.263
+# UCBrowser 8.6.1 - Webkit 533 - Android 2.3.3
+Mozilla/5.0 (Linux; U; Android 2.3.3; en-us ; LS670 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1/UCBrowser/8.6.1.262/145/355

@@ -1,0 +1,8 @@
+# Email Wolf
+EmailWolf 1.00
+# Gaisbot 3.0
+Gaisbot/3.0 (robot@gais.cs.ccu.edu.tw; http://gais.cs.ccu.edu.tw/robot.php)
+# Grub-Client
+grub-client-1.5.3; (grub-client-1.5.3; Crawl your own stuff with http://grub.org)
+# gulperbot
+Gulper Web Bot 0.2.4 (www.ecsl.cs.sunysb.edu/~maxim/cgi-bin/Link/GulperBot)

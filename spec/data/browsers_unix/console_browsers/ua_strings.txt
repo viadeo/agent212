@@ -1,0 +1,8 @@
+# ELinks 0.4.3 (NetBSD)
+ELinks (0.4.3; NetBSD 3.0.2PATCH sparc64; 141x19)
+# Links 2.1 (FreeBSD)
+Links (2.1pre15; FreeBSD 5.3-RELEASE i386; 196x84)
+# Links 2.8.7
+Lynx/2.8.7dev.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8d
+# w3m 0.5.1
+w3m/0.5.1
